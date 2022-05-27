@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e478rl4du4benpx70ff5v5rgy0mcu2qv8p84icydgm1&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media3.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e478rl4du4benpx70ff5v5rgy0mcu2qv8p84icydgm1&rid=giphy.gif&ct=g" width="500"/>
 </div>
 <!--
 **SeanSong459/SeanSong459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
