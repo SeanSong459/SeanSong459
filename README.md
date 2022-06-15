@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->, 
 
-- 🌱 I’m currently learning c# and .NET
+- 🌱 I’m currently learning C# and .NET
 - 👯 I’m looking to collaborate on any MERN stack project.
 - ⚡ Fun fact: I'm an active trader, I'm interested in trading forex/stock/indices, fundamental and technical analysis
 - 💬 Ask me about anything related to MERN stack and related technologies
