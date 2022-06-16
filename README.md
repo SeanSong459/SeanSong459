@@ -1,5 +1,5 @@
 <!-- <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-840de57b4f64aee1e72e4fc208ec6607" width="500"/>
 </div>  -->
 
 ### Hi there 👋 I'm Dexuan, a full-stack developer.
