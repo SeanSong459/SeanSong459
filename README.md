@@ -1,3 +1,7 @@
+<!-- <div id="header" align="center">
+  <img src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
+</div>  -->
+
 ### Hi there 👋 I'm Dexuan, a full-stack developer.
 <!-- 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=SeanSong459)](https://github.com/LordDashMe/github-contribution-stats/) -->
@@ -25,8 +29,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to MERN stack and related technologies
 - 📫 How to reach me: dson459@gmail.com -->
 
+
 <!-- <h1 align="center">Hi 👋, I'm Dexuan</h1>
 <h3 align="center">A passionate Full-Stack developer</h3> -->
+
+
 
 - 🔭 I’m currently working on **a MERN stack project**
 
